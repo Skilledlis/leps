@@ -10,6 +10,8 @@ import com.skilled.obstest.data.Repository
  */
 class App : Application() {
 
+    //dasda
+
      val  sharedPreferences: SharedPreferences by lazy {
          getSharedPreferences("ShPName", MODE_PRIVATE)
      }
