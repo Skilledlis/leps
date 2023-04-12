@@ -12,6 +12,8 @@ class App : Application() {
 
     //dasda
 
+    //dev commit
+
      val  sharedPreferences: SharedPreferences by lazy {
          getSharedPreferences("ShPName", MODE_PRIVATE)
      }
